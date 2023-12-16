@@ -1,0 +1,43 @@
+ body {
+    background-color: #000000;
+}
+.section1 {
+   
+  position: relative;
+  right: 270px;
+  bottom: 50px;
+    
+}
+    
+    
+img {
+    border: 15px solid white;
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+    
+}
+.img1 {
+position: absolute;
+top: 250px;
+left: 670px;
+z-index: 4;
+}
+.img2 {
+    position: absolute;
+    top: 250px;
+    left: 820px;
+    z-index: 3;
+}
+.img3 {
+    position: absolute;
+    top:250px;
+    left: 980px;
+    z-index: 2;
+}
+.img4 {
+    position: absolute;
+    top: 250px;
+    left:1140px ;
+    z-index: 1;
+}
